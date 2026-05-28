@@ -1,2 +1,34 @@
-# Bytebox
-Open source project to act as your mini-server for when you are in heavily restricted areas.
+# Bytebox [V1]
+This project is an open source project to act as your mini-server for when you are in heavily restricted areas.
+
+Developer Wise, this project is a linux distro. Pushing whatever tech its running on to the max of its capabilities with a user interface. Complete with SSH on terminal and in browser.
+
+Note: This project is for educational and entertainment purposes. **Do not attempt to host bytebox on a public network. Host it on a hotspot instead.**
+
+# Bytebox Recipe
+As you know, Bytebox isnt really free. It requires some certain hardware to run on.
+**You are going to need:**
+
+Hotspot/Wifi SSID and Password
+
+Device that can run a .img file or a storage device
+
+
+But since its called Bytebox, heres my personal recipe for when im on the go:
+
+Hotspot (SSID and Password)
+
+Orange Pi (Can be a Raspberry Pi)
+
+Orange Pi Casing (To protect the Orange Pi)
+
+Battery + Short USB to USB-C Cable (Keep the Orange Pi turned on wirelessly)
+
+
+This overall helps you run Bytebox the intended way. *This distro will not provide you a UI Interface or a desktop directly. It only hosts a HTML Page at bytebox.local*
+
+# What does this do?
+
+It hosts a local server on your network, the URL name is **bytebox.local** and it hosts 24/7. If the server is not working, **Your connection might be restricting bytebox from hosting freely on the network.**
+
+Its a multi-purpose tool that allows you to configure wifi settings, bluetooth transmission, Reverse-engineering tools, Games, SSH and a proxy list for web browsing. (More comes soon)
