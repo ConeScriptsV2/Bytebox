@@ -54,5 +54,7 @@ Connect a monitor into the hardware, it displays a live console of whats happeni
 
 Theres a file named "startup.env" and it contains all the network settings you need. (Rebuild required) *This future will be replaced soon.*
 
-*What is this kernel?*  Its running off Arch Linux, combined with a personal project named OrangeJS which runs javascript at runtime.
+**What is this kernel?**
+
+Its running off Arch Linux, combined with a personal project named OrangeJS which runs javascript at runtime.
 Its a multi-purpose tool that allows you to configure wifi settings, bluetooth transmission, Reverse-engineering tools, Games, SSH and a proxy list for web browsing. (More comes soon)
