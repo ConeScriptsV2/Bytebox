@@ -35,13 +35,24 @@ It hosts a local server on your network, the URL name is **bytebox.local** and i
 
 # QNA
 
-*Does this work on any computer?*  Yes. Aslong as you can replace the OS and access the internet.
+**Does this work on any computer?**
 
-*Is it free to use?*  Yes, aslong as you or someone else hosts it.
+Yes. Aslong as you can replace the OS and access the internet.
 
-*How do i debug the box?*  Connect a monitor into the hardware, it displays a live console of whats happening.
 
-*How do i change SSID Settings?*  Theres a file named "startup.env" and it contains all the network settings you need. (Rebuild required) *This future will be replaced soon.*
+**Is it free to use?** 
+
+Yes, aslong as you or someone else hosts it.
+
+
+**How do i debug the box?**
+
+Connect a monitor into the hardware, it displays a live console of whats happening.
+
+
+**How do i change SSID Settings?**
+
+Theres a file named "startup.env" and it contains all the network settings you need. (Rebuild required) *This future will be replaced soon.*
 
 *What is this kernel?*  Its running off Arch Linux, combined with a personal project named OrangeJS which runs javascript at runtime.
 Its a multi-purpose tool that allows you to configure wifi settings, bluetooth transmission, Reverse-engineering tools, Games, SSH and a proxy list for web browsing. (More comes soon)
