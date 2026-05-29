@@ -1,11 +1,12 @@
 <img width="3104" height="1602" alt="byteboxbanner" src="https://github.com/user-attachments/assets/2efacfba-9477-46cf-af21-684b994446a7" />
 
-# Bytebox [V1]
+
+# The Bytebox Project
 This project is an open source project to act as your mini-server for reverse engineering.
 
-Developer Wise, this project is technically a linux distro. Pushing whatever tech its running on to the best of its capabilities with a user interface. Complete with SSH on terminal and in browser.
+Developer wise, this project is technically a linux distro. Pushing whatever tech its running on to the best of its capabilities with a user interface provided from a HTML Page. Complete with SSH on terminal and in browser.
 
-Note: This project is for educational and entertainment purposes. **Dont host bytebox on a public network. Preferrably host it on a hotspot instead, or your home network. Because hosting an unwanted server on a public network is illegal and will most likely not work due to the DNS configuration set by the network.** But overall i am not responsible for how you use this repository.
+Note: This project is for educational and entertainment purposes. **Dont host bytebox on a public network. Preferrably host it on a hotspot instead, or your home network. Because hosting an unwanted server on a public network is illegal and will most likely not work due to the DNS configuration set by the network.** But overall I am not responsible for how you use this repository.
 
 # Bytebox Recipe
 As you know, Bytebox isnt really free. It requires some certain hardware to run on.
@@ -17,13 +18,13 @@ Device that can run a OS (Flashed with a .img file)
 
 
 
-But since its called Bytebox, heres my personal recipe for when im on the go:
+**But since its called Bytebox, heres my personal recipe for when im on the go:**
 
 Hotspot (SSID and Password)
 
 Orange Pi (Can be a Raspberry Pi)
 
-Micro SD Card (Storage for Bytebox)
+15 GB Micro SD Card (Storage for Bytebox)
 
 Orange Pi Casing (To protect the Orange Pi)
 
