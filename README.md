@@ -1,3 +1,5 @@
+<img width="3104" height="1602" alt="byteboxbanner" src="https://github.com/user-attachments/assets/2efacfba-9477-46cf-af21-684b994446a7" />
+
 # Bytebox [V1]
 This project is an open source project to act as your mini-server for reverse engineering.
 
