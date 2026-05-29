@@ -1,5 +1,5 @@
 # Bytebox [V1]
-This project is an open source project to act as your mini-server for when you are in heavily restricted areas.
+This project is an open source project to act as your mini-server for reverse engineering.
 
 Developer Wise, this project is technically a linux distro. Pushing whatever tech its running on to the best of its capabilities with a user interface. Complete with SSH on terminal and in browser.
 
